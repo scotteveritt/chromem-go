@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/philippgille/chromem-go"
+	"github.com/scotteveritt/chromem-go"
 )
 
 const (

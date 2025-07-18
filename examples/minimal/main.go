@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"runtime"
 
-	"github.com/philippgille/chromem-go"
+	"github.com/scotteveritt/chromem-go"
 )
 
 func main() {
